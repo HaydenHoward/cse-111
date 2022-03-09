@@ -53,14 +53,18 @@ def main():
     except FileNotFoundError as not_found_err:
         print()
         print(type(not_found_err).__name__, not_found_err, sep=": ")
+        print(f"The file was not found")
         
     except PermissionError as perm_err:
         print()
         print(type(perm_err).__name__, perm_err, sep=": ")
+        print("you don't have permission to use")
+
         
     except KeyError as key_err:
         print()
         print(type(key_err).__name__, key_err, sep=": ")
+        print("unkown value")
 
 
 def read_dict(filename, key_column_index):
