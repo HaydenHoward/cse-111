@@ -1,0 +1,29 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+During the chemistry assignment I saw how important having a function can be.
+Having parameters in the function made it so the function could be used in different 
+situations that need it. Using functions made following the code and the process it 
+took to complete all the code much easier. 
+
+
+2. In your judgment, what is the value of test functions?
+Test functions are useful for functions that return a value. These fucntions are able 
+to test every possible scenorio that you can think of and confirm that it returns the 
+correct results. For functions that don't return a value can still be tested by having 
+it return True. Test functions are a valuable thing that I have been able to learn this semester. 
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+When troubleshooting a program using the debugging tool within VSCode is a very useful 
+resource. Another way that I can go about solving it is trying to write a test function for it.
+The last way that I know of to help fix a program is go to the internet and research to find 
+possible solutions for my problem. One thing I could do to improve my process is to write the
+test functions as i am coding instead of after I have finished the code. This will give me a
+clearer answer to if my fucntions are running correctly. Then when I come across a function
+that does not run correctly I can then use the debugging tool to try and find where the error is myself.
+
+

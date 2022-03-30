@@ -9,19 +9,31 @@ supervisors know what we intend to do. Please answer each of the
 following questions to the best of your knowledge.)
 
 1. What is the title of your program?
-
+    Tik_Tac_Toe.py
 2. What real world problem will your program address or help to solve?
-
+    This program will allow a use to play a game of Tik Tac Toe. 
+    The real world problem is entertainment.
 3. What will you learn from developing this program?
-
+    I will learn more about using functions. This program will rely on user input
+    that is not inside of the terminal. 
 4. What Python modules will your program use? (Some examples are: csv,
 datetime, functools, matplotlib, math, pandas, pytest, random, requests,
 and tkinter.)
+    This program will be using turtle.
 
 5. Will you separate your Python program into functions that each
 perform a single task?
+    Yes my program will be separated into functions. There will be one for placing
+    x's and one for placing o's. One for the game board. There will also be a function
+    to decide the win state, this will be winning, losing, or a tie I am not too
+    sure on what other functions there will be at this time, but I imagine
+    that there will be some more that I will use inside the three main ones. 
 
 6. Will you write test functions to test many of your program functions?
+    Yes, I am not sure how I will go about writing some of the test functions yet. 
+    I think I will be able to detect when turtle draws something and use this to
+    test the drawing functions. I might be able to have preplaced pieces and test
+    to see if the function decides if it is a win, loss, or a tie.
 
 (Remember that it's hard to test functions that get user input and print
 output. It's easy to test functions that don't get user input and don't
